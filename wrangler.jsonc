@@ -1,4 +1,8 @@
 {
   "name": "where-winds-meet-dps",
-  "pages_build_output_dir": "dist"
+  "compatibility_date": "2026-09-28",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
 }
